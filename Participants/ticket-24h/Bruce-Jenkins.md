@@ -12,7 +12,7 @@ facebook        :
 website         :
 email           :
 project-leader  :
-chapter-leader  :
+chapter-leader  : Chattanooga, TN
 funded-who      :
 ticket          : 5x24h
 status          : empty
